@@ -23,7 +23,7 @@ h1 {
 /* Game Directions */
 .description {
   text-align: center;
-  margin: 80px auto 40px;
+  margin: 10px auto 40px;
 }
 
 
@@ -32,7 +32,7 @@ h1 {
   background: transparent;
   border: 3px solid #fff;
   border-radius: 6px;
-  color: #fff;
+  color: #000000;
   cursor: pointer; 
   display: block;
   font-size: 20px;
@@ -50,7 +50,7 @@ h1 {
 
 .choice-bucket {
   display: inline-block;
-  float: center;
+  float: left;
   margin: 0;
   padding: 0;
   width: 33.333333%;
@@ -79,9 +79,9 @@ h1 {
 }
 
 .highlight {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 24px;
-  margin-left: 30px;
+  margin-left: 50px;
   opacity: .8;
 }
 
